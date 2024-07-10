@@ -3,7 +3,7 @@ import ButtonNumber from "../button/buttonNumbers"
 import ButtonCaracteres from "../button/buttonCaracteres"
 import { numberCalcu, symbolCalcu } from "../../utilities"
 import { useState } from "react"
-import AreaText from "../textArea"
+import AreaText from "../textArea/index"
 
 
 function Card() {
